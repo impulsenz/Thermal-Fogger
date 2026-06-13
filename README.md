@@ -1,5 +1,3 @@
-Here is the rewritten Privacy Policy tailored specifically for Pest Map Pro, incorporating your app's core mapping features, device tracking categories (Crawling, Flying, 3rd Line, etc.), site data handling, and image capture functionality based on your app's interface.
-
 Privacy Policy – Pest Map Pro App
 Last updated: 13 June 2026
 
